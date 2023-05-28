@@ -14,7 +14,7 @@ Using myfootballanalytics, you will be able to answer questions such as:
 
 Installation
 
-From pip
+From pip (available soon)
 1) Type the command
 	pip install myfootballanalytics
 2) Copy paste 'run.py' at a convenient directory (or create a new one)
