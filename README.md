@@ -1,6 +1,6 @@
 ## myfootballanalytics
 
-#Introduction
+**Introduction**
 
 myfootballanalytics is a user-friendly, in-house developed python-based tool to analyse
 and visualise football data obtained from understat.com in order to assess the performance of football clubs and players and extract meaningful insights.
@@ -13,7 +13,7 @@ Using myfootballanalytics, you will be able to answer questions such as:
 
 ... and many more.
 
-#Installation
+**Installation**
 
 From pip (available soon)
 1) Type the command
@@ -28,7 +28,7 @@ From Github
 3) Modify 'run.py' based on your needs
 4) Run 'run.py' using python3
 
-#Requirements
+**Requirements**
 
 1) Python3 (at least 3.6)
 2) package manager for python packages 'pip'
@@ -37,5 +37,7 @@ From Github
 	pip install requests
 	pip install tqdm
 	pip install mplsoccer
+
+
 
 For detailed explanation, please check Instruction_manual.pdf file
