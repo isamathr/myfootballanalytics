@@ -1,8 +1,17 @@
-# myfootballanalytics
+<h1 align="center"> myfootballanalytics</h1>
 
-![my_football_analytics](https://github.com/isamathr/myfootballanalytics/assets/134223309/e6c351ce-e7f5-4d2d-a943-53c475d8150b)
+<p align="center">
+  <img src="https://github.com/isamathr/myfootballanalytics/assets/134223309/e6c351ce-e7f5-4d2d-a943-53c475d8150b" width="400">
+</p>
 
-## Introduction
+# Table of contents
+
+* [About](About)
+* [Prerequisites](Prerequisites)
+* [Installation](Installation)
+* [Getting started](Getting-started)
+
+## About
 
 **myfootballanalytics** is a user-friendly, in-house developed python-based tool to analyse and visualise football data in order to assess the performance of football clubs and players and extract meaningful insights.
 
@@ -48,10 +57,10 @@ Type the command
    ```
 
 ### From Github
-1. Download the repository
+1. Clone or download the repository
 2. Save it at a convenient directory
 
-# Getting started
+## Getting started
 
 The input as well as the functionalities of the tool are included in one file; 'run.py' that follows
 
