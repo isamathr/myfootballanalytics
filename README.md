@@ -6,10 +6,10 @@
 
 # Table of contents
 
-* [About](about)
-* [Prerequisites](prerequisites)
-* [Installation](installation)
-* [Getting started](getting-started)
+* [About](#about)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Getting started](#getting-started)
 
 ## About <a name="about"></a>
 
