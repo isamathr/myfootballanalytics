@@ -6,12 +6,12 @@
 
 # Table of contents
 
-* [About](About)
-* [Prerequisites](Prerequisites)
-* [Installation](Installation)
-* [Getting started](Getting-started)
+* [About](about)
+* [Prerequisites](prerequisites)
+* [Installation](installation)
+* [Getting started](getting-started)
 
-## About
+## About <a name="about"></a>
 
 **myfootballanalytics** is a user-friendly, in-house developed python-based tool to analyse and visualise football data in order to assess the performance of football clubs and players and extract meaningful insights.
 
@@ -29,7 +29,7 @@ visualise your findings:
 get files with data for your own analysis
 ... and many more.
 
-## Prerequisites
+## Prerequisites <a name="prerequisites"></a>
 
 1. Install Python3 (at least 3.6) directly from its website [https://www.python.org/downloads/](url)
 or via anaconda [https://www.anaconda.com/](url)
@@ -47,7 +47,7 @@ or via anaconda [https://www.anaconda.com/](url)
    pip install mplsoccer
    ```
 
-## Installation
+## Installation <a name="installation"></a>
 
 ### From pip (will be available soon)
 Type the command
@@ -60,7 +60,7 @@ Type the command
 1. Clone or download the repository
 2. Save it at a convenient directory
 
-## Getting started
+## Getting started <a name="getting-started"></a>
 
 The input as well as the functionalities of the tool are included in one file; 'run.py' that follows
 
