@@ -49,7 +49,7 @@ or via anaconda [https://www.anaconda.com/](url)
 
 ## Installation <a name="installation"></a>
 
-### From pip (will be available soon)
+### From pip
 Type the command
    
    ```
