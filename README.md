@@ -1,5 +1,7 @@
 <h1 align="center"> myfootballanalytics</h1>
 
+Creator of the repository: Ilias Samathrakis
+
 <p align="center">
   <img src="https://github.com/isamathr/myfootballanalytics/assets/134223309/e6c351ce-e7f5-4d2d-a943-53c475d8150b" width="400">
 </p>
