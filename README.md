@@ -31,8 +31,8 @@ get files with data for your own analysis
 
 ## Prerequisites <a name="prerequisites"></a>
 
-1. Install Python3 (at least 3.6) directly from its website [https://www.python.org/downloads/](url)
-or via anaconda [https://www.anaconda.com/](url)
+1. Install Python3 (at least 3.6) directly from its website https://www.python.org/downloads/
+or via anaconda https://www.anaconda.com/
 2. Install package manager for python packages 'pip'
    
    ```
