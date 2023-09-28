@@ -12,24 +12,27 @@ Creator of the repository: Ilias Samathrakis
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
 * [Getting started](#getting-started)
+* [Utilized Skills](#skills)
 
 ## About <a name="about"></a>
 
 **myfootballanalytics** is a user-friendly, in-house developed python-based tool to analyse and visualise football data in order to assess the performance of football clubs and players and extract meaningful insights.
 
-By using **myfootballanalytics**, you will be able to answer questions such as: 
+By using **myfootballanalytics**, you are able to: 
 
-1. Does Mourinho play the catenaccio of the modern years? 
-2. Was Guardiola’s Barcelona better than Heynckes’s Bayern Munich?
-3. Is Robert Lewandowski a ’killer’ striker?
+- answer questions such as: 
 
-visualise your findings:
+  1. Does Mourinho play the catenaccio of the modern years? 
+  2. Was Guardiola’s Barcelona better than Heynckes’s Bayern Munich?
+  3. Is Robert Lewandowski a ’killer’ striker?
 
-![Dortmund-mainz-2022-2023](https://github.com/isamathr/myfootballanalytics/assets/134223309/37e6e7ee-ae27-4c3a-94c6-659f0c2185a3)
-![xG-SerieA-2021-2022](https://github.com/isamathr/myfootballanalytics/assets/134223309/e18e289a-afba-4021-9d0f-85d6f3f24f79)
+- visualise your findings:
 
-get files with data for your own analysis
-... and many more.
+<img src="https://github.com/isamathr/myfootballanalytics/assets/134223309/37e6e7ee-ae27-4c3a-94c6-659f0c2185a3" alt="drawing" width="450"/>
+<img src="https://github.com/isamathr/myfootballanalytics/assets/134223309/e18e289a-afba-4021-9d0f-85d6f3f24f79" alt="drawing" width="450"/>
+
+ - get files with data for your own analysis
+ - many more.
 
 ## Prerequisites <a name="prerequisites"></a>
 
@@ -63,8 +66,6 @@ Type the command
 2. Save it at a convenient directory
 
 ## Getting started <a name="getting-started"></a>
-
-The input as well as the functionalities of the tool are included in one file; 'run.py' that follows
 
 ```
 import myfootballanalytics as mfa
@@ -129,11 +130,12 @@ if analyze_team:
     team_analysis.analyze_team()
 ```
 
-1. Copy 'run.py' from above and paste it at a convenient directory. 
+1. Copy the above python code and paste it within a file named 'run.py'
+2. Save it at a convenient directory 
    
    Note: 
    - If you installed the tool via pip, the location of 'run.py' file is not important. 
-   - If you downloaded tool from github, it is recommended to paste 'run.py' within the same directory (a level above myfootballanalytics directory)
+   - If you downloaded the tool from github, it is recommended to paste 'run.py' within the same directory (a level above myfootballanalytics directory)
 3. Modify 'run.py' based on your needs
 4. Run 'run.py' using python3
    
@@ -141,4 +143,10 @@ if analyze_team:
    python run.py
    ```
 
-For more detailed explanation, please check Instructions_manual.pdf file
+Detailed explanation is provided in [Instructions_manual.pdf](https://github.com/isamathr/myfootballanalytics/blob/main/Instructions_manual.pdf)
+
+## Utilized skills <a name="skills"></a>
+
+- Data collection: **Python** (Beautifoulsoup)
+- Data Analysis: **Python** (pandas)
+- Data visualization: **Python** (matplotlib)
