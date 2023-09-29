@@ -16,7 +16,7 @@ Creator of the repository: Ilias Samathrakis
 
 ## About <a name="about"></a>
 
-**myfootballanalytics** is a user-friendly, in-house developed python-based tool to analyse and visualise football data in order to assess the performance of football clubs and players and extract meaningful insights.
+**myfootballanalytics** is a user-friendly, in-house developed python-based (available [here](https://pypi.org/project/myfootballanalytics/)) tool to analyse and visualise football data in order to assess the performance of football clubs and players and extract meaningful insights.
 
 By using **myfootballanalytics**, you are able to: 
 
