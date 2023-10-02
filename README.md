@@ -28,8 +28,8 @@ By using **myfootballanalytics**, you are able to:
 
 - visualise your findings:
 
-<img src="https://github.com/isamathr/myfootballanalytics/assets/134223309/37e6e7ee-ae27-4c3a-94c6-659f0c2185a3" alt="drawing" width="420"/>
-<img src="https://github.com/isamathr/myfootballanalytics/assets/134223309/e18e289a-afba-4021-9d0f-85d6f3f24f79" alt="drawing" width="420"/>
+<img src="https://github.com/isamathr/myfootballanalytics/assets/134223309/37e6e7ee-ae27-4c3a-94c6-659f0c2185a3" alt="drawing" width="360"/>
+<img src="https://github.com/isamathr/myfootballanalytics/assets/134223309/e18e289a-afba-4021-9d0f-85d6f3f24f79" alt="drawing" width="360"/>
 
  - get files with data for your own analysis
  - many more.
